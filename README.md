@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I'm a software developer intern at Engeto s.r.o., working on educational platform for students, internt application. 
+- 🔭 I'm a software developer intern at Engeto s.r.o., working on educational platform for students, intern application. 
 
 - 🌱 I’m currently learning **everything** 🤓
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **React, web development, and Python**
 
 - 📫 Reach me out at **martin.sedlak777@gmail.com**
+
+### I am interest in 
 
 ### 🛠 &nbsp;Tech Stack
 
