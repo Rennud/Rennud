@@ -4,13 +4,13 @@ I am a passionate junior software engineer. I am proficient in Python, TypeScrip
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I'm a software developer intern at Engeto s.r.o., working on educational platform for students, intern application. 
+- 🔭 I'm a software developer intern at Engeto s.r.o., working on educational platform for students and intern application. 
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **web development - F** 🤓
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 💬 Ask me about **React, web development, and Python**
+- 💬 Ask me about **React, web development and Python**
 
 - 📫 Reach me out at **martin.sedlak777@gmail.com**
 
