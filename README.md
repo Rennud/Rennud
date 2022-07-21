@@ -1,12 +1,12 @@
 ### Hi there 👋, I am Martin, 
 
-I am a passionate junior software engineer. I am proficient in Python, TypeScript, React, HTML and CSS. I was working as an investment specialist but I found that this career path wasn't for me. I started programming with my good friend just for fun and I fell in love with it.
+I am a passionate junior software engineer. I am proficient in Python, TypeScript, React, HTML, CSS and Git. I was working as an investment specialist but I found that this career path wasn't for me. I started programming with my good friend just for fun and I fell in love with it.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I'm a software developer intern at Engeto s.r.o., working on educational platform for students and intern application. 
 
-- 🌱 I’m currently learning **web development - F** 🤓
+- 🌱 I’m currently learning **everything** 🤓
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
