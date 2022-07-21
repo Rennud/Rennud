@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Martin, 
 
+I am a passionate junior software engineer with an economical background. I am proficient in Python, TypeScript, React, HTML and CSS. I was working as an investment specialist but I found that this career path wasn't for me. I started programming with my good friend just for fun and I fell in love with it.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -12,8 +13,6 @@
 - 💬 Ask me about **React, web development, and Python**
 
 - 📫 Reach me out at **martin.sedlak777@gmail.com**
-
-### I am interest in 
 
 ### 🛠 &nbsp;Tech Stack
 
