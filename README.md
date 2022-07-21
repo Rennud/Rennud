@@ -20,6 +20,7 @@ I am a passionate junior software engineer. I am proficient in Python, TypeScrip
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
+![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=A8B9CC)&nbsp;
 ![Node](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
