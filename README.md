@@ -1,16 +1,16 @@
 ### Hi there 👋, I am Martin, 
 
-I am a passionate software engineer. I am proficient in Java, Spring boot, DevOps tools, Python, TypeScript, React, HTML, CSS and Git. Now I am focusing on Java and necessary tools for development and operation enterprise application.
+I am a passionate software engineer. I am proficient in Java, Spring boot, DevOps, Python, TypeScript, React, HTML, CSS and Git. Now I am focusing just on Java and necessary tools for development and operation enterprise application.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I'm a java developer intern at Komerční banka a.s.
+- 🔭 I'm a java developer at Komerční banka a.s.
 
 - 🌱 I’m currently learning **everything** 🤓
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **anything**
 
 - 📫 Reach me out at **martin.sedlak777@gmail.com**
 
