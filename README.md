@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Martin, 
 
-I am a passionate junior software engineer. I am proficient in Java, Spring boot, DevOps tools, Python, TypeScript, React, HTML, CSS and Git. Now I am focusing on Java and necessary tools for development and operation enterprise application.
+I am a passionate software engineer. I am proficient in Java, Spring boot, DevOps tools, Python, TypeScript, React, HTML, CSS and Git. Now I am focusing on Java and necessary tools for development and operation enterprise application.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -17,6 +17,8 @@ I am a passionate junior software engineer. I am proficient in Java, Spring boot
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Spring boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![DevOps](https://img.shields.io/badge/-DevOps-05122A?style=flat&logo=devops)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
