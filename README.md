@@ -4,7 +4,7 @@ I am a passionate software engineer. I am proficient in Java, Spring boot, DevOp
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I'm a java developer at Komerční banka a.s.
+- 🔭 I'm a Java Developer at Komerční banka a.s.
 
 - 🌱 I’m currently learning **everything** 🤓
 
