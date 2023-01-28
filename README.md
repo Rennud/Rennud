@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Martin, 
 
-I am a passionate software engineer. I am proficient in Java, Spring boot, DevOps, Python, TypeScript, React, HTML, CSS and Git. Now I am focusing just on Java and necessary tools for development and operation enterprise application.
+I am a passionate software engineer. I am proficient in Java, Spring boot, DevOps, Python, TypeScript, React, HTML, CSS and Git. Now I am focusing on Java and necessary tools for development and operation enterprise application.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
